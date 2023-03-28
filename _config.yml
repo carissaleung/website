@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Carissa Leung"
-  avatar : "/assets/images/goose.png"
+  avatar : "/assets/images/goose.jpg"
   bio    : "Welcome to my page! Here you will find all the things I have learned in KNES381."
   links:
     - label: "Website"
