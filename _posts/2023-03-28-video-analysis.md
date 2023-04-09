@@ -10,7 +10,7 @@ tags:
 ---
 
 header:
-  overlay_image: /assests/images/hockey.jpg
+  image: /assets/images/hockey.jpg
   
 
 Here is the page where you will find my video analysis!
