@@ -7,8 +7,6 @@ tags:
   - video
   - analysis
   - knes381
- header:
-  image: /assets/images/hockey.jpg
 ---
 
 header:
