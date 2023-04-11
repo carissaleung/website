@@ -37,4 +37,4 @@ Above is the data for the average speed of the skier per lap.
   
 <p>
 To see the chart version of this data click below! ↓
-{{ site.baseurl }}{% link _posts/2023-04-04-charts.md %}
+<a href= "https://carissaleung.github.io/website/blog/charts/">
