@@ -9,4 +9,27 @@ tags:
   - knes381
 ---
 
-> Here you will find my data analysis!
+<p div align="center"> Here you will find my data analysis! <p>
+  
+<p>
+<img src="{{ site.url }}{{site.baseurl }}/assets/images/excelHR.png" alt="">
+  
+Above you will see the data corresponding to the average heart rate per lap.
+<p>
+  
+<p>
+<img src="{{ site.url }}{{site.baseurl }}/assets/images/excelAD.png" alt="">
+  
+Above you will see the spreadsheet for the average ascent and descent per lap. 
+<p>
+  
+<p>
+<img src="{{ site.url }}{{site.baseurl }}/assets/images/excelAS.png" alt="">
+  
+Above is the data for the average speed of the skier per lap.
+<p>
+  
+<p>
+To see the chart version of this data click below! ↓
+https://carissaleung.github.io/website/blog/charts/
+<p>
