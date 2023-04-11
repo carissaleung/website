@@ -9,8 +9,7 @@ tags:
   - knes381
 ---
 
-header:
-  image: /assets/images/hockey.jpg
-  
 
 Here is the page where you will find my video analysis!
+
+<img src="{{ site.url }}{{site.baseurl }}/assets/images/video.mp4" alt="">
