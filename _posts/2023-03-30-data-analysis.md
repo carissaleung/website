@@ -12,19 +12,19 @@ tags:
 <p div align="center"> Here you will find my data analysis! <p>
   
 <p>
-<img src="{{ site.url }}{{site.baseurl }}/assets/images/excelHR.png" alt="">
+<img src="{{ site.url }}{{site.baseurl }}/assets/images/excelHR.jpg" alt="">
   
 Above you will see the data corresponding to the average heart rate per lap.
 <p>
   
 <p>
-<img src="{{ site.url }}{{site.baseurl }}/assets/images/excelAD.png" alt="">
+<img src="{{ site.url }}{{site.baseurl }}/assets/images/excelAD.jpg" alt="">
   
 Above you will see the spreadsheet for the average ascent and descent per lap. 
 <p>
   
 <p>
-<img src="{{ site.url }}{{site.baseurl }}/assets/images/excelAS.png" alt="">
+<img src="{{ site.url }}{{site.baseurl }}/assets/images/excelAS.jpg" alt="">
   
 Above is the data for the average speed of the skier per lap.
 <p>
