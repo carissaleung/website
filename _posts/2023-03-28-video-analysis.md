@@ -12,4 +12,4 @@ tags:
 
 Here is the page where you will find my video analysis!
 
-<img src="{{ site.url }}{{site.baseurl }}/assets/images/video.mp4" alt="">
+<iframe width="640" height="360" src="https://dartfi.sh/vgvHbVNMfO9" frameborder="0" allowfullscreen=""></iframe>
