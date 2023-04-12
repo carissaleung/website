@@ -12,4 +12,6 @@ tags:
 
 Here is the page where you will find my video analysis!
 
-<iframe width="640" height="360" src="https://dartfi.sh/vgvHbVNMfO9" frameborder="0" allowfullscreen=""></iframe>
+In the video below, my brother is demonstrating a bicep curl. I have also outlined some pointers at key points of the video. Thank you to my little brother who so graciously decided he would star in my video :)
+
+<iframe width="640" height="500" src="https://dartfi.sh/vgvHbVNMfO9" frameborder="0" allowfullscreen=""></iframe>
